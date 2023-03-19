@@ -1,10 +1,13 @@
-### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=SameerDhumal)
+<h1 align="center"> Hi there 👋 , I'm Sameer Dhumal</h1>
+<h3 align="center">Software developer</h3>
+<h3 align="center">🌱 I’m currently learning CDAC PG-DAC</h3><br>
+ <h4 align="center">📫 How to reach me:Linkdin=> https://www.linkedin.com/in/sameerdhumal14</h4>
+ <h4 align="center">📫 How to reach me:Email=> sameerdhumal.sd@gmail.com </h4><br>
+ 
 <!--
-**SameerDhumal95/SameerDhumal95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**sameerdhumal/sameerdhumal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
