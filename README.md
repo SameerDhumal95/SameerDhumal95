@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=SameerDhumal)
 <h1 align="center"> Hi there 👋 , I'm Sameer Dhumal</h1>
 <h3 align="center">Fresher Software developer</h3>
-<h3 align="center">🌱 I’m currently completed CDAC PG-DAC</h3><br>
+<h3 align="center">🌱 Completed CDAC PG-DAC</h3><br>
  <h4 align="center">📫 How to reach me:Linkdin=> https://www.linkedin.com/in/sameerdhumal14</h4>
  <h4 align="center">📫 How to reach me:Email=> sameerdhumal.sd@gmail.com </h4><br>
  
