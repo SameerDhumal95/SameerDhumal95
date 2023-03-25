@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/http://linkedin.com/in/sameerdhumal14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/sameerdhumal14" height="30" width="40" /></a>
 <a href="https://fb.com/sameerdhumal.sd@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameerdhumal.sd@gmail.com" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:16429564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16429564" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sameerdhumal_sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sameerdhumal_sd" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@sameerdhumal_sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sameerdhumal_sd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
